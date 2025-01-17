@@ -4,7 +4,6 @@
 Today I'll cover few prominent figures within the Bitcoin community, from whom I learned a lot in last couple of years. I am regarding them as ₿-Gurus, these are individuals who live, breathe, share their knowledge to masses. Let's learn from the experts! My actual list is long though but it's careful cherry picking of **5 of these heros** for you and there bunch of videos, so you can start your journey.
 
 * * * * * <br>
-
 [**#1 Preston Pysh**](https://www.theinvestorspodcast.com/our-team/)
 
 <img src="https://bitcoin-mantra.github.io/blogs/assets/img1/Preston.png" width="350" height="350">
@@ -37,11 +36,11 @@ Jeff Booth is a visionary leader who has lived at the forefront of technology ch
 
 Saifedean Ammous is an internationally best-selling economist and author. In 2018, Ammous authored [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://saifedean.com/tbs), the best-selling book on bitcoin, published in 37 languages.
 
-**What is Bitcoin? | A Bitcoin for Beginners Guide by Saifedean Ammous** --- 10 mins
+**What is Bitcoin? - A Bitcoin for Beginners Guide by Saifedean Ammous** *-- 10 mins*
 
 [![A Bitcoin for Beginners Guide by Saifedean Ammous](https://img.youtube.com/vi/MzUqKbP33iA/0.jpg)](https://www.youtube.com/watch?v=MzUqKbP33iA)
 
-**THE BITCOIN STANDARD SUMMARY | Bitcoin Explained** --- 17 mins
+**THE BITCOIN STANDARD SUMMARY | Bitcoin Explained** *-- 17 mins*
 
 [![THE BITCOIN STANDARD SUMMARY](https://img.youtube.com/vi/t1brCcgi174/0.jpg)](https://www.youtube.com/watch?v=t1brCcgi174)
 
@@ -76,7 +75,7 @@ Kashif has been in the Crypto industry since November, 2016 and co-founded India
 
 Kashif has published a variety of educational content in Hindi as well, which is a plus for native Hindi speakers.
 
-**Ye Hai Crypto || Chapter-17 || What is Bitcoin?**  --- 10 min
+**Ye Hai Crypto Chapter-17 - What is Bitcoin?**  *-- 10 min*
 
 [![Ye Hai Crypto - What is Bitcoin](https://img.youtube.com/vi/__y6jiLuLpA/0.jpg)](https://www.youtube.com/watch?v=__y6jiLuLpA)
 
