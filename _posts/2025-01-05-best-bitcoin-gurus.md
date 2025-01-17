@@ -17,7 +17,7 @@ Preston also publishes a Bitcoin podcast every Wednesday and has already recorde
 
 * * * * *
 
-<img src="https://bitcoin-mantra.github.io/blogs/assets/img1/JeffBooth.png" width="400" height="400">
+<img src="https://bitcoin-mantra.github.io/blogs/assets/img1/JeffBooth.png" width="400" height="300">
 
 [**#2 Jeff Booth**](https://www.jeffbooth.ca/)
 
