@@ -1,4 +1,4 @@
-# ₿(Bitcoin's) History And Pre-history (Part#1)
+# Part#1: ₿(Bitcoin's) History And Pre-history
 
 ## History of Bitcoin
 Bitcoin is the **1st** decentralized cryptocurrency, leveraging blockchain technology to enable peer-to-peer digital transactions without intermediaries (in traditional systems we are dependent on Banks to settle any monetary transaction and Banks take care of maintaining the ledger, old system worked so far but has lot of drawbacks. New system uses Blockchain technology which is superior).
