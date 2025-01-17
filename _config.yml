@@ -3,6 +3,7 @@ title: HOME - Bitcoin Mantra Series!
 #theme: jekyll-theme-minimal
 logo: /assets/img/BitcoinMantra.png
 rss: rss
+url: https://bitcoin-mantra.github.io
 
 theme: "minima"
 kramdown:
