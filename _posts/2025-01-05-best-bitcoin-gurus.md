@@ -48,7 +48,7 @@ Saifedean Ammous is an internationally best-selling economist and author. In 201
 
 <img src="https://bitcoin-mantra.github.io/blogs/assets/img1/MSaylor.png" width="350" height="325">
 
-Michael Saylor is the Executive Chairman of MicroStrategy (MSTR), a publicly traded business intelligence firm & holder of ₿ 444,262 (at point of writing this article) that he founded in 1989. He's author of the book "The Mobile Wave". He founded the Saylor Academy [saylor.org](https://www.saylor.org/), a non-profit that has provided free education to over 2 million students wordwide. One of famous bitcoin course, for any background I recommend is [PRDV151:Bitcoin for Everyone](https://learn.saylor.org/course/view.php?id=468). 
+Michael Saylor is the Executive Chairman of MicroStrategy (MSTR), a publicly traded business intelligence firm & holder of ₿ 444,262 (at point of writing this article) that he founded in 1989. He's author of the book "The Mobile Wave". He founded the Saylor Academy [saylor.org](https://www.saylor.org/), a non-profit that has provided free education to over 2 million students wordwide. One of the famous bitcoin course, which I recommend for person from any background is [PRDV151:Bitcoin for Everyone](https://learn.saylor.org/course/view.php?id=468). 
 
 He is an advocate for the Bitcoin Standard (hope.com) with dual degrees from MIT in **Aerospace Engineering & History of Science**. His 4 hour interview with Lex Fridman summarizes his thoughts on Bitcoin, Inflation, and the Future of Money with ~10 million views on [YouTube](https://www.youtube.com/watch?v=mC43pZkpTec).
 

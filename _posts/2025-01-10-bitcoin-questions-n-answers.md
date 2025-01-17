@@ -35,7 +35,7 @@ Allocate only a small percentage of the portfolio (e.g., 1-5%) to Bitcoin in-ord
 
 If you holds bitcoin for 4 year cycle then your investment will grow enough and this will also give you time to research on Bitcoin. Below are past few years of return for Bitcoin (still growing average ~ 50% to 60 % every year and after 2030 prediction are as volatility reduces with time will still grow 20% per year.):
 
-<img src="https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/screenshot-from-2025-01-10-00-27-17.png" width="424" height="548">
+<img src="https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/screenshot-from-2025-01-10-00-27-17.png" width="400" height="500">
 
 **#4 Am I late to Invest into Bitcoin?**
 ----------------------------------------
@@ -59,7 +59,7 @@ No, you're not necessarily late to invest in Bitcoin. While Bitcoin has seen sig
 **#6 Why Bitcoin is considered as a Digital Gold?**
 -------------------------------------------------
 
-<img src="https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/gold.png" width="400" height="500">
+<img src="https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/gold.png" width="300" height="400">
 
 Bitcoin is considered "Digital Gold" because it combines many of gold's characteristics---scarcity, durability, resistance to manipulation, and value preservation---with the advantages of digital technology, such as portability, divisibility, and accessibility. While it doesn't have the centuries-long track record of gold, Bitcoin's growing adoption and recognition as a store of value position it as a modern alternative to physical gold in the digital age.
 
