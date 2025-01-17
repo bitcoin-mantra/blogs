@@ -40,7 +40,7 @@ Bitcoin halving is a pre-programmed event in the Bitcoin network that reduces th
 
 - **Reached $100,000: December 2024** Reaching $100K milestone on Dec 5 is breaking a psychological level, registered in history after the 4th halving and spot BTC ETF approvals within USA.
 
-![halving-spiral-black](/assets/img/halving-timeline.png)
+![halving-spiral-black](https://bitcoin-mantra.github.io/blogs/assets/img/halving-timeline.png)
 
 **Source:** [https://www.coindesk.com/learn/bitcoin-halving-explained](https://www.coindesk.com/learn/bitcoin-halving-explained)
 
@@ -53,7 +53,7 @@ Bitcoin halving is a pre-programmed event in the Bitcoin network that reduces th
 ## Pre-History:
 ### 40 years of several attempts made to create cryptocurrencies before Bitcoin:
 
-![halving-spiral-black](/assets/img/bitcoinprehistory.png)
+![halving-spiral-black](https://bitcoin-mantra.github.io/blogs/assets/img/bitcoinprehistory.png)
 
 **Source:** [https://x.com/AnselLindner/status/993498723853352960/photo/1](https://x.com/AnselLindner/status/993498723853352960/photo/1)
 
