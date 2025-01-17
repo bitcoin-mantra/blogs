@@ -4,7 +4,8 @@
 Today I'll cover few prominent figures within the Bitcoin community, from whom I learned a lot in last couple of years. I am regarding them as ₿-Gurus, these are individuals who live, breathe, share their knowledge to masses. Let's learn from the experts! My actual list is long though but it's careful cherry picking of **5 of these heros** for you and there bunch of videos, so you can start your journey.
 
 * * * * *
-<img src="https://bitcoin-mantra.github.io/blogs/assets/img1/Preston.png" width="400" height="400">
+<img src="https://bitcoin-mantra.github.io/blogs/assets/img1/Preston.png" width="350" height="350">
+
 [**#1 Preston Pysh**](https://www.theinvestorspodcast.com/our-team/)
 
 Preston tops my list for a reason, as I've been following him since 2019, when I began understanding the world of [value investing](https://www.investopedia.com/terms/v/valueinvesting.asp). I have benefited from his work a lot and appreciate his contribution toward to the investing community. He's an entrepreneur, investor, author, and cryptocurrency proponent. He's the founder of [BuffettsBooks.com](https://buffettsbooks.com/), and his videos on financial investing have been viewed by millions of people around the world. Preston graduated from the United States Military Academy at West Point in 2003 with a Bachelor of Science in **Aerospace Engineering**.
@@ -29,7 +30,7 @@ https://www.youtube.com/watch?v=SL1ca-BuIS8
 
 * * * * *
 
-<img src="https://bitcoin-mantra.github.io/blogs/assets/img1/Saifu.png" width="400" height="400">
+<img src="https://bitcoin-mantra.github.io/blogs/assets/img1/Saifu.png" width="350" height="350">
 
 [**#3 Saifedean Ammous**](https://saifedean.com/)
 
@@ -45,7 +46,7 @@ https://www.youtube.com/watch?v=t1brCcgi174
 
 * * * * *
 
-<img src="https://bitcoin-mantra.github.io/blogs/assets/img1/MSaylor.png" width="400" height="400">
+<img src="https://bitcoin-mantra.github.io/blogs/assets/img1/MSaylor.png" width="350" height="350">
 
 [**#4 Michael Saylor**](https://www.michael.com/)
 
@@ -65,7 +66,7 @@ https://www.youtube.com/watch?v=gCfA1lkmJo4
 
 * * * * *
 
-<img src="https://bitcoin-mantra.github.io/blogs/assets/img1/Kashif.png" width="400" height="400">
+<img src="https://bitcoin-mantra.github.io/blogs/assets/img1/Kashif.png" width="350" height="350">
 
 [**#5 Kashif Raza**](https://www.bitinning.com/)
 
