@@ -1,4 +1,4 @@
-# Part#3: ₿(Bitcoin) Questions and Ansewers, to know more about new asset class.
+# Part#3: ₿(Bitcoin) Questions and Answers, Learn More
 
 ## Introduction:
 Great you have made to Part#3 of the Bitcoin series! Today we'll draw our attention toward some critical points before you start investing to Bitcoin:
