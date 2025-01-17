@@ -1,4 +1,4 @@
-# Learn ₿(Bitcoin) from the Best in the Industry (Part#2)
+# Part#2: Learn ₿(Bitcoin) from the Best in the Industry
 
 ## Introduction:
 Today I'll cover few prominent figures within the Bitcoin community, from whom I learned a lot in last couple of years. I am regarding them as ₿-Gurus, these are individuals who live, breathe, share their knowledge to masses. Let's learn from the experts! My actual list is long though but it's careful cherry picking of **5 of these heros** for you and there bunch of videos, so you can start your journey.
