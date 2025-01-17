@@ -1,9 +1,6 @@
----
-layout: post
-title:  "₿(Bitcoin) Q&A to know more about new asset class (Part#3)"
----
+# ₿(Bitcoin) Q&A to know more about new asset class (Part#3)
 
-# Introduction:
+## Introduction:
 Great you have made to Part#3 of the Bitcoin series! Today we'll draw our attention toward some critical points before you start investing to Bitcoin:
 
 -   **Do Your Research(DYR):** Understand Bitcoin, blockchain technology, and market dynamics.
