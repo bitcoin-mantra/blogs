@@ -1,4 +1,4 @@
-# Part#4: ₿(Bitcoin)- Designing your Own Customized Investment Portfolio
+# Part#4: ₿(Bitcoin)- Designing your Customized Investment Portfolio
 
 ## Introduction:
 This topic is to share my learning during designing of my own BTC portfolio process. Goal is to giving you stepping stone, so you can design your own customized BTC portfolio. I have made few assumptions to keep examples and calculations easy to grasp, due to different risk appetite and age group few calculations (related to salary and portfolio % toward BTC investment) might differ for individual investors.
@@ -8,7 +8,7 @@ This topic is to share my learning during designing of my own BTC portfolio proc
 BTC Investing **Strategy:**
 ---------------------------
 
-**Step#1** **BTC Investment %age:** Calculate **5%** of your total investment portfolio you want to invest into BTC in any given year (if you asking why 5% only, then see [Bitcoin_Part#3_Topic#3](https://vinaybaatcheet.wordpress.com/2025/01/03/part-3-bitcoin/)).
+**Step#1** **BTC Investment %age:** Calculate **5%** of your total investment portfolio you want to invest into BTC in any given year (if you asking why 5% only, then see [Bitcoin_Part#3_Topic#3](https://bitcoin-mantra.github.io/blogs/2025/01/10/bitcoin-questions-n-answers.html)).
 
 **Step#2** **DCA:** Instead of waiting for BTC price to dip, start daily **DCA**(dollar cost avg.), as this is human tendency to think too much of price vs market sentiments. Still, if BTC dip enough (say 30% to 70% draw down happened in past, but don't worry Step#3 will take care of that risk), then totally make sense to buy in big chunks. During this period, whenever BTC price drops, it's really **+ve news for us** to add more fractions of BTC at a cheap prices. I hope BTC to remain cheap till 2030, so more retail investors gets time to invest into BTC.
 
@@ -48,7 +48,8 @@ I am inviting two of our teachers to guide us here, 1st is **Michael Saylor** ex
 
 ![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/screenshot-2025-01-13-at-12.07.13e280afam.png?w=1024)
 
-**Greg Foss** is math genius and beautifully explained bear case (90% prob.) and bull case (10% prob.), and give BTC $200K will be sure and it's math, he has not predicted when it will happen but this content he published few years back. Incase, you adjust the probability b/w bear and bull markets then BTC price might land b/w **$200K and $2M** seems possible. (**source**: <https://www.reddit.com/r/Bitcoin/comments/y6vzui/thoughts/?rdt=39652>).
+**Greg Foss** is math genius and beautifully explained bear case (90% prob.) and bull case (10% prob.), and give BTC $200K will be sure and it's math, he has not predicted when it will happen but this content he published few years back. Incase, you adjust the probability b/w bear and bull markets then BTC price might land b/w **$200K and $2M** seems possible. 
+**source**: [Reddit Link...](https://www.reddit.com/r/Bitcoin/comments/y6vzui/thoughts/?rdt=39652)
 
 ![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/screenshot-2025-01-12-at-11.58.51e280afpm.png?w=922)
 
@@ -61,7 +62,7 @@ These pics were taken 13 years apart. Same place 5th Av. NY City. On the left ho
 
 ![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/screenshot-2025-01-13-at-12.27.40e280afam.png?w=1024)
 
-**Source**: <https://www.reddit.com/r/Damnthatsinteresting/comments/lk0tf5/these_pics_were_taken_13_years_apart_same_place/>
+**Source**: [Reddit Link...](https://www.reddit.com/r/Damnthatsinteresting/comments/lk0tf5/these_pics_were_taken_13_years_apart_same_place/)
 
 * * * * *
 
@@ -74,6 +75,4 @@ Now, is it possible that current banking industry or fiat system will be replace
 
 Time will tell us how correct is this math and lets keep speculation part open for individual person and I am not here to pass any judgement. I think my job is learn from others and share my learning within investing community. This is my humble effort to break down these topic in few parts, with unwavering support and encouragement from my **family and friends** with whom I regularly bouncing my ideas and shameless asking to review my articles to get feedback and better these articles for my readers.
 
-*I have fair assumption that once our portfolio clear this 4 to 5 years of **gravitation pull**, then you can relax and find a new gig! **Keep Learning & Keep HODLing!!!***
-
-★
+*I have fair assumption that once our portfolio clear this 4 to 5 years of **gravitation pull**, then you can relax and find a new gig! **Keep Learning & Keep HODLing!!!**

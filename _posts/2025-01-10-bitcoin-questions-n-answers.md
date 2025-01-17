@@ -17,7 +17,7 @@ Investing in Bitcoin isn't for everyone, but for those who align with its princi
 
 -   **Long-Term Investors (**in crypto world we call them **HODLers,** HODL is a crypto slang which means to buy-and-hold indefinitely**)**. Here, I am considering holding time of min. 4 to 5 years as it's correlated to bitcoin halving cycle and it's projected price calculation.
 -   **Inflation Hedge:** One looking for **hedge** against **inflation** and **fiat** currency **devaluation** (this can be more realized in weak currencies e.g. Lebanon and Argentina are latest examples where their currencies devalued **75% to 90%** in quick span of time. But, sometimes we think this will not impact me, lets take another example, after covid b/w 2020 to 2022, home prices increased by an estimated **20-30%** in many parts of the U.S.).
--   **Fixed Supply:** As, we learned in [Part#1](https://vinaybaatcheet.wordpress.com/2024/11/26/history-of-bitcoin-pre-history-genesis-block-satoshi-bitcoin-holding/) **Bitcoin halving topic and limited supply (21 million coins)** drives long-term scarcity and value. I also mentioned original source, my recommendation to open post on laptop and view content in full size. Lets revisit original Reddit [post](https://www.reddit.com/r/CryptoCurrency/comments/1gqafju/bitcoin_has_followed_a_consistent_4year_cycle_for/#lightbox),
+-   **Fixed Supply:** As, we learned in [Part#1](https://bitcoin-mantra.github.io/blogs/2025/01/03/pre-history-bitcoin.html) **Bitcoin halving topic and limited supply (21 million coins)** drives long-term scarcity and value. I also mentioned original source, my recommendation to open post on laptop and view content in full size. Lets revisit original Reddit [post](https://www.reddit.com/r/CryptoCurrency/comments/1gqafju/bitcoin_has_followed_a_consistent_4year_cycle_for/#lightbox),
 -   and remember next halving will around March 2028 (For me time b/w two halving is accumulation period, you can track halving using free resource like <https://bitbo.io/halving/>)
 -   **Freedom**: Bitcoin aligns with principles of self-sovereignty and resistance to centralized control. Put some effort in learning about self custody (i.e. how to move your bitcoin from exchanges to hot or cold wallets, once you have enough accumulation e.g. greater than $1000). Also, there are lot of incidents of exchange hacks, so this practice will safeguard you from such events.
 
@@ -35,7 +35,7 @@ Allocate only a small percentage of the portfolio (e.g., 1-5%) to Bitcoin in-ord
 
 If you holds bitcoin for 4 year cycle then your investment will grow enough and this will also give you time to research on Bitcoin. Below are past few years of return for Bitcoin (still growing average ~ 50% to 60 % every year and after 2030 prediction are as volatility reduces with time will still grow 20% per year.):
 
-![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/screenshot-from-2025-01-10-00-27-17.png?w=608)
+<img src="https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/screenshot-from-2025-01-10-00-27-17.png?w=608" width="600" height="800">
 
 **#4 Am I late to Invest into Bitcoin?**
 ----------------------------------------
@@ -59,7 +59,7 @@ No, you're not necessarily late to invest in Bitcoin. While Bitcoin has seen sig
 **#6 Why Bitcoin is considered as Digital Gold?**
 -------------------------------------------------
 
-![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/gold.png?w=720)
+<img src="https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/gold.png?w=720" width="600" height="800">
 
 Bitcoin is considered "Digital Gold" because it combines many of gold's characteristics---scarcity, durability, resistance to manipulation, and value preservation---with the advantages of digital technology, such as portability, divisibility, and accessibility. While it doesn't have the centuries-long track record of gold, Bitcoin's growing adoption and recognition as a store of value position it as a modern alternative to physical gold in the digital age.
 
