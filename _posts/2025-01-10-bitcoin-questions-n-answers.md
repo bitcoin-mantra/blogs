@@ -12,7 +12,7 @@ Investing in Bitcoin isn't for everyone, but for those who align with its princi
 
 * * * * *
 
-**#1 Who Should Invest in Bitcoin?**
+**#1 Who Should Invest in the Bitcoin?**
 ------------------------------------
 
 -   **Long-Term Investors (**in crypto world we call them **HODLers,** HODL is a crypto slang which means to buy-and-hold indefinitely**)**. Here, I am considering holding time of min. 4 to 5 years as it's correlated to bitcoin halving cycle and it's projected price calculation.
@@ -21,14 +21,14 @@ Investing in Bitcoin isn't for everyone, but for those who align with its princi
 -   and remember next halving will around March 2028 (For me time b/w two halving is accumulation period, you can track halving using free resource like <https://bitbo.io/halving/>)
 -   **Freedom**: Bitcoin aligns with principles of self-sovereignty and resistance to centralized control. Put some effort in learning about self custody (i.e. how to move your bitcoin from exchanges to hot or cold wallets, once you have enough accumulation e.g. greater than $1000). Also, there are lot of incidents of exchange hacks, so this practice will safeguard you from such events.
 
-**#2 Who Should Avoid Investing in Bitcoin?**
+**#2 Who Should Avoid Investing in the Bitcoin?**
 ---------------------------------------------
 
 -   **Risk-Averse Individuals:** Those who cannot tolerate significant price swings or the risk of losing their investment.
 -   **Uninformed Investors:** Those who don't understand Bitcoin's fundamentals or how it works.
 -   **People with Short-Term Needs:** If you need liquidity within a few months, Bitcoin's volatility makes it a poor choice.
 
-**#3 How much of your portfolio should be invested in Bitcoin?**
+**#3 How much of your portfolio should be invested in the Bitcoin?**
 ----------------------------------------------------------------
 
 Allocate only a small percentage of the portfolio (e.g., 1-5%) to Bitcoin in-order to begin with, if you feel this asset class is too risky. So, this will not give a person heart attack if price drops severely in any given year. Lets say ~ **5% of your portfolio going to zero** (due to severe bear market) won't bring you on the road as I assume 95% of your portfolio is still invested in traditional fiat instruments like **Stock / ETF's, Gold, Real Estate, Retirement funds & Cash**.
@@ -56,14 +56,14 @@ No, you're not necessarily late to invest in Bitcoin. While Bitcoin has seen sig
 
 **Conclusion**: Better to ignore other cryptocurrencies, this will reduce noise and give you time to focus on one single best digital money. Once you understand basics and develop confidence with bitcoin then you can easily grasp other innovation and projects.
 
-**#6 Why Bitcoin is considered as Digital Gold?**
+**#6 Why Bitcoin is considered as a Digital Gold?**
 -------------------------------------------------
 
 <img src="https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/gold.png?w=720" width="600" height="650">
 
 Bitcoin is considered "Digital Gold" because it combines many of gold's characteristics---scarcity, durability, resistance to manipulation, and value preservation---with the advantages of digital technology, such as portability, divisibility, and accessibility. While it doesn't have the centuries-long track record of gold, Bitcoin's growing adoption and recognition as a store of value position it as a modern alternative to physical gold in the digital age.
 
-**#7 Is Bitcoin proves Mahatma Gandhi's quote correct?**
+**#7 Does Bitcoin proves Mahatma Gandhi's quote correct?**
 --------------------------------------------------------
 
 Mahatma Gandhi's famous quote **"First they ignore you, then they laugh at you, then they fight you, then you change the world."** from his book *"An Autobiography: The Story of My Experiments with Truth"*.
@@ -100,7 +100,7 @@ Bitcoin can be difficult to understand for many people because it challenges con
 
 Understanding Bitcoin requires unlearning some traditional ideas about money and embracing a new digital, decentralized paradigm. While the learning curve is steep, the rewards of understanding and potentially adopting Bitcoin can be profound.
 
-**#9 Is Bitcoin a Tulip Mania Bubble?**
+**#9 Does Bitcoin a Tulip Mania Bubble?**
 ---------------------------------------
 
 ![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/tulipmania.jpg?w=1024)
@@ -112,7 +112,7 @@ Understanding Bitcoin requires unlearning some traditional ideas about money and
 -   Bitcoin has existed since 2009, surviving numerous market crashes, regulatory scrutiny, and technological challenges, proving its resilience.
 -   Bitcoin has a robust and growing global market, with billions of dollars traded daily. Tulips lacked liquidity and a global market, which contributed to their rapid price collapse.
 
-**#10 Bitcoin is Not an Energy Efficient?**
+**#10 Does Bitcoin Not an Energy Efficient Tech.?**
 -------------------------------------------
 
 Bitcoin's network consumes an estimated 100--150 terawatt-hours (TWh) annually, placing it on par with the energy consumption of small-to-medium-sized countries, such as the **Netherlands or Argentina** (which is true fact).

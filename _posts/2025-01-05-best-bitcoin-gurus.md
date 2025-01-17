@@ -18,7 +18,7 @@ Preston also publishes a Bitcoin podcast every Wednesday and has already recorde
 
 [**#2 Jeff Booth**](https://www.jeffbooth.ca/)
 
-<img src="https://bitcoin-mantra.github.io/blogs/assets/img1/JeffBooth.png" width="400" height="300">
+<img src="https://bitcoin-mantra.github.io/blogs/assets/img1/JeffBooth.png" width="400" height="260">
 
 Jeff Booth is a visionary leader who has lived at the forefront of technology change. He led BuildDirect, a technology company that aimed to simplify the building industry, for nearly two decades through the dot-com meltdown, the 2008 financial crisis, and many waves of technological disruption. Jeff's the author of one of my [favorite](https://vinaybaatcheet.wordpress.com/2024/10/08/books/) books - [The Price of Tomorrow](https://vinaybaatcheet.wordpress.com/?page_id=230)
 
@@ -37,7 +37,7 @@ Saifedean Ammous is an internationally best-selling economist and author. In 201
 
 [![A Bitcoin for Beginners Guide by Saifedean Ammous](https://img.youtube.com/vi/MzUqKbP33iA/0.jpg)](https://www.youtube.com/watch?v=MzUqKbP33iA)
 
-**THE BITCOIN STANDARD SUMMARY | Bitcoin Explained** *-- 17 mins*
+**THE BITCOIN STANDARD SUMMARY - Bitcoin Explained** *-- 17 mins*
 
 [![THE BITCOIN STANDARD SUMMARY](https://img.youtube.com/vi/t1brCcgi174/0.jpg)](https://www.youtube.com/watch?v=t1brCcgi174)
 * * * * * <br>
