@@ -70,7 +70,7 @@ These pics were taken 13 years apart. Same place 5th Av. NY City. On the left ho
 
 Now, is it possible that current banking industry or fiat system will be replaced by one of best global money i.e. **BTC** which is running solid and strong **24/7** since **2009** without any centralized control? This is reminding me about phrase *"[**Bitcoin** is a swarm of cyber hornets serving the **goddess of wisdom**, feeding on the **fire of truth**, exponentially growing ever](https://vinaybaatcheet.wordpress.com/2024/10/16/bitcoin-as-cyber-hornet-m-saylor/) **[smarte](https://vinaybaatcheet.wordpress.com/2024/10/16/bitcoin-as-cyber-hornet-m-saylor/)***[**r, faster, and stronger**.](https://vinaybaatcheet.wordpress.com/2024/10/16/bitcoin-as-cyber-hornet-m-saylor/)"
 
-![](https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/img_1602-2-1.jpg?w=1017)
+<img src="https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/img_1602-2-1.jpg?w=1017" width="400" height="400">
 
 Time will tell us how correct is this math and lets keep speculation part open for individual person and I am not here to pass any judgement. I think my job is learn from others and share my learning within investing community. This is my humble effort to break down these topic in few parts, with unwavering support and encouragement from my **family and friends** with whom I regularly bouncing my ideas and shameless asking to review my articles to get feedback and better these articles for my readers.
 
