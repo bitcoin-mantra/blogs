@@ -2,7 +2,6 @@
 
 ## Introduction:
 Today I'll cover few prominent figures within the Bitcoin community, from whom I learned a lot in last couple of years. I am regarding them as ₿-Gurus, these are individuals who live, breathe, share their knowledge to masses. Let's learn from the experts! My actual list is long though but it's careful cherry picking of **5 of these heros** for you and there bunch of videos, so you can start your journey.
-
 * * * * * <br>
 [**#1 Preston Pysh**](https://www.theinvestorspodcast.com/our-team/)
 
@@ -15,7 +14,6 @@ Preston tops my list for a reason, as I've been following him since 2019, when I
 [![Watch For These 2 Things For Bitcoin THIS YEAR - Preston Pysh](https://img.youtube.com/vi/xJoaiytUDMg/0.jpg)](https://www.youtube.com/shorts/xJoaiytUDMg)
 
 Preston also publishes a Bitcoin podcast every Wednesday and has already recorded over [200+ podcasts](https://www.theinvestorspodcast.com/bitcoin-fundamentals/) at the time of writing this article.
-
 * * * * * <br>
 
 [**#2 Jeff Booth**](https://www.jeffbooth.ca/)
@@ -27,7 +25,6 @@ Jeff Booth is a visionary leader who has lived at the forefront of technology ch
 **Bitcoin Technology Crushes Inflation: Jeff Booth** *-- 4 mins* <br>
 
 [![Bitcoin Technology Crushes Inflation: Jeff Booth](https://img.youtube.com/vi/SL1ca-BuIS8/0.jpg)](https://www.youtube.com/watch?v=SL1ca-BuIS8)
-
 * * * * * <br>
 
 [**#3 Saifedean Ammous**](https://saifedean.com/) <br>
@@ -43,7 +40,6 @@ Saifedean Ammous is an internationally best-selling economist and author. In 201
 **THE BITCOIN STANDARD SUMMARY | Bitcoin Explained** *-- 17 mins*
 
 [![THE BITCOIN STANDARD SUMMARY](https://img.youtube.com/vi/t1brCcgi174/0.jpg)](https://www.youtube.com/watch?v=t1brCcgi174)
-
 * * * * * <br>
 
 [**#4 Michael Saylor**](https://www.michael.com/)
@@ -63,8 +59,6 @@ Michael Saylor is the Executive Chairman of MicroStrategy (MSTR), a publicly tra
 **The Greatest Bitcoin Explanation of ALL TIME (Michael Saylor)** --- 11 mins
 
 [![The Greatest Bitcoin Explanation of ALL TIME](https://img.youtube.com/vi/gCfA1lkmJo4/0.jpg)](https://www.youtube.com/watch?v=gCfA1lkmJo4)
-
-
 * * * * * <br>
 
 [**#5 Kashif Raza**](https://www.bitinning.com/)
