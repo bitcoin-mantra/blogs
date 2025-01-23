@@ -1,14 +1,25 @@
 # Part#1: ₿(Bitcoin's) History And Pre-history
 
 ## History of Bitcoin
-Bitcoin is the **1st** decentralized cryptocurrency, leveraging blockchain technology to enable peer-to-peer digital transactions without intermediaries (in traditional systems we are dependent on Banks to settle any monetary transaction and Banks take care of maintaining the ledger, old system worked so far but has lot of drawbacks. New system uses Blockchain technology which is superior).
+Bitcoin is the **first** decentralized cryptocurrency, utilizing blockchain technology to facilitate peer-to-peer digital transactions without the need for intermediaries like banks. Traditionally we are dependent on Banks to settle any monetary transaction and dependent on bank entities who maintain the ledger or record keeping. Banks have several drawbacks, including centralization, high fees, slow transactions, limited accessibility, account freezing risks, and lack of transparency. 
+Unlike banks, which rely on intermediaries and are subject to government control, Bitcoin operates on a peer-to-peer network, allowing users to transact freely without restrictions. Additionally, Bitcoin’s limited supply protects against inflation, while banks can print money, devaluing currency. 
 
-The first cryptocurrency was bitcoin, which was released as open-source software in 2009. It's hard work of **40 years** done by computer geeks (a.k.a **cyber-punks**, you'll learn more in pre-history section).
+Overall, Bitcoin presents an alternative financial system with greater autonomy, security, and efficiency compared to traditional banks.Bitcoin is the result of **40 years** of work by cryptographers and computer scientists, particularly those known as **cypherpunks**, whom we will discuss in the prehistory section. As of Nov 2024, there were 25,000+ other cryptocurrencies in the marketplace, out of them several are either dead or of no-use.
 
-As of Nov 2024, there were 25,000+ other cryptocurrencies in the marketplace, out of them several are either dead or of no-use.
+## Different actors in the Bitcoin Ecosystem
+![blockchain-ecosystem](https://bitcoin-mantra.github.io/blogs/assets/img/blockchain-ecosystem.png)
+Source: [https://www.fool.com/terms/b/blockchain-ecosystem](https://www.fool.com/terms/b/blockchain-ecosystem/)
+**Miners** use computational power to solve complex mathematical puzzles (Proof-of-Work) and validate transactions. In return, they earn newly minted Bitcoin and transaction fees. Mining secures the network by preventing fraudulent transactions and double-spending.
+
+**Developers** contribute to Bitcoin’s open-source code, proposing and implementing improvements. They ensure network efficiency, security updates, and scalability solutions. However, they cannot enforce changes without community consensus.
+
+**Nodes** store and verify the entire blockchain ledger, ensuring transaction validity without relying on miners. Full nodes enforce Bitcoin’s rules, reject invalid transactions, and contribute to network decentralization.
+
+**Stakeholders** Holders of the blockchain's native cryptocurrency. This includes people who have bought it as a cryptocurrency investment and who plan to use it for payments. 
+
+Together, miners secure the network, developers improve functionality, and nodes enforce protocol rules. This decentralized collaboration ensures Bitcoin remains a censorship-resistant, secure, and transparent financial system without central authority control.
 
 ## Key Details
-
 - Creator: **Satoshi Nakamoto** (anonymous entity or group)
 
 - Whitepaper Release: October 31, 2008
@@ -22,8 +33,7 @@ As of Nov 2024, there were 25,000+ other cryptocurrencies in the marketplace, 
 ## Bitcoin Price w.r.t Time and Milestones achieved so-far... (Bitcoin Halving?)
 
 ### What is Bitcoin Halving?
-
-Bitcoin halving is a pre-programmed event in the Bitcoin network that reduces the reward miners receive for mining new blocks by half. It occurs approximately every 210,000 blocks, or roughly every four years, as part of Bitcoin’s deflationary monetary policy.
+Bitcoin halving is a built-in mechanism that reduces miners' rewards by half every 210,000 blocks, or approximately every four years, ensuring Bitcoin’s controlled supply.
 
 ![halving-spiral-black](https://bitcoin-mantra.github.io/blogs/assets/img/halving-spiral-black.png)
 
@@ -48,7 +58,7 @@ Bitcoin halving is a pre-programmed event in the Bitcoin network that reduces th
 
 **$1,000,000**: $1M Optimistic forecasts suggest the possibility between 2030 and 2040, driven by scarcity (fixed supply of 21 million BTC) and institutional acceptance as digital gold.
 
-[!NOTE] These projections depend heavily on market conditions, regulatory developments, and global economic factors. Bitcoin remains volatile and speculative.
+**NOTE** These projections depend heavily on market conditions, regulatory developments, and global economic factors. Bitcoin remains volatile and speculative.
 
 ## Pre-History:
 ### 40 years of several attempts made to create cryptocurrencies before Bitcoin:
@@ -99,7 +109,9 @@ Year of Proposal: 1998
 Bitcoin improved upon these attempts by introducing a decentralized blockchain, robust proof-of-work consensus, pseudonymity, and a self-sustaining incentive structure for miners, which resolved many of the drawbacks of earlier systems.
 
 ### How many Bitcoin does its inventor Satoshi Nakamoto still own?
-In the first seven months of Bitcoin's existence, Bitcoin creator Satoshi Nakamoto mined as many as **1.1 million** Bitcoin (out of total **21 million** coins). Satoshi's coins have never been spent or moved from their original mining addresses known as "Patoshi Blocks". Despite multiple bull runs, these coins remain untouched. The only possible exception is a small test transaction of 10 BTC that Satoshi sent to **Hal Finney** (_few speculators believes Hal as Satoshi_) in early Bitcoin testing. Bitcoin has a open ledger so anyone can view and confirm that Satoshi coins, which means Bicoin is more scarce than what we think for humanity. Satoshi treated Bitcoin as a **gift to humanity** and avoided personal financial gain. We can also say that this is test of Bitcoin’s integrity – If those coins ever move, it would cause a significant _stir_ in the community.
+In the first seven months of Bitcoin's existence, Bitcoin creator Satoshi Nakamoto mined as many as **1.1 million** Bitcoin (out of total **21 million** coins). Satoshi's coins have never been spent or moved from their original mining addresses known as "Patoshi Blocks". 
+
+Despite multiple bull runs, these coins remain untouched, except for a small 10 BTC test transaction sent to **Hal Finney**, whom some speculate to be Satoshi. Bitcoin operates on an open ledger, allowing anyone to verify Satoshi’s coins, making Bitcoin even scarcer than commonly perceived. Satoshi has given Bitcoin as a best gift to humanity and avoided any personal financial gain. We can also say that this is a test of Bitcoin’s integrity, if Satoshi coins ever move, it will cause a significant stir in the community.
 
 **Read More:** 
 [https://decrypt.co/34810/how-many-bitcoin-does-its-inventor-satoshi-nakamoto-still-own](https://decrypt.co/34810/how-many-bitcoin-does-its-inventor-satoshi-nakamoto-still-own)
