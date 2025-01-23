@@ -1,14 +1,17 @@
 # Part#1: ₿(Bitcoin's) History And Pre-history
 
 ## History of Bitcoin
-Bitcoin is the **first** decentralized cryptocurrency, utilizing blockchain technology to facilitate peer-to-peer digital transactions without the need for intermediaries like banks. Traditionally we are dependent on Banks to settle any monetary transaction and dependent on bank entities who maintain the ledger or record keeping. Banks have several drawbacks, including centralization, high fees, slow transactions, limited accessibility, account freezing risks, and lack of transparency. 
-Unlike banks, which rely on intermediaries and are subject to government control, Bitcoin operates on a peer-to-peer network, allowing users to transact freely without restrictions. Additionally, Bitcoin’s limited supply protects against inflation, while banks can print money, devaluing currency. 
+Bitcoin is the **first** decentralized cryptocurrency, utilizing blockchain technology to facilitate peer-to-peer digital transactions without the need for intermediaries like banks. Traditionally we are dependent on Banks to settle any monetary transaction and dependent on bank entities who maintain the ledger or record keeping. 
 
-Overall, Bitcoin presents an alternative financial system with greater autonomy, security, and efficiency compared to traditional banks.Bitcoin is the result of **40 years** of work by cryptographers and computer scientists, particularly those known as **cypherpunks**, whom we will discuss in the prehistory section. As of Nov 2024, there were 25,000+ other cryptocurrencies in the marketplace, out of them several are either dead or of no-use.
+Banks have several drawbacks, including centralization, high fees, slow transactions, limited accessibility, account freezing risks, and lack of transparency. Unlike banks, which rely on intermediaries and are subject to government control, Bitcoin operates on a peer-to-peer network, allowing users to transact freely without restrictions. Additionally, Bitcoin’s limited supply protects against inflation, while banks can print money, devaluing currency. 
+
+Overall, Bitcoin presents an alternative financial system with greater autonomy, security, and efficiency compared to traditional banks. Bitcoin is the result of **40 years** of work by cryptographers and computer scientists, particularly those known as **cypherpunks**, whom we will discuss in the prehistory section. As of Nov 2024, there were 25,000+ other cryptocurrencies in the marketplace, out of them several are either dead or of no-use.
 
 ## Different actors in the Bitcoin Ecosystem
 ![blockchain-ecosystem](https://bitcoin-mantra.github.io/blogs/assets/img/blockchain-ecosystem.png)
-Source: [https://www.fool.com/terms/b/blockchain-ecosystem](https://www.fool.com/terms/b/blockchain-ecosystem/)
+
+**Source:** [www.fool.com/terms/b/blockchain-ecosystem](https://www.fool.com/terms/b/blockchain-ecosystem/)
+
 **Miners** use computational power to solve complex mathematical puzzles (Proof-of-Work) and validate transactions. In return, they earn newly minted Bitcoin and transaction fees. Mining secures the network by preventing fraudulent transactions and double-spending.
 
 **Developers** contribute to Bitcoin’s open-source code, proposing and implementing improvements. They ensure network efficiency, security updates, and scalability solutions. However, they cannot enforce changes without community consensus.
@@ -65,27 +68,29 @@ Bitcoin halving is a built-in mechanism that reduces miners' rewards by half eve
 
 ![halving-spiral-black](https://bitcoin-mantra.github.io/blogs/assets/img/bitcoinprehistory.png)
 
-**Source:** [https://x.com/AnselLindner/status/993498723853352960/photo/1](https://x.com/AnselLindner/status/993498723853352960/photo/1)
+**Source:** [https://x.com/AnselLindner/status](https://x.com/AnselLindner/status/993498723853352960/photo/1)
 
 ### 1. DigiCash
 Creator: David Chaum
 Year of Creation: 1989
+
 **Drawbacks**:
-- Centralized: DigiCash required a trusted third party to process transactions, unlike Bitcoin's decentralized system.
+- Centralized: DigiCash required a trusted third party to process transactions
 - Lack of adoption: Limited interest from banks and institutions led to its failure.
 Bankruptcy: DigiCash went bankrupt in 1998.
 
 ### 2. e-gold
 Creator: Douglas Jackson and Barry Downey
 Year of Creation: 1996
+
 **Drawbacks:**
 - Centralized: Controlled by a single entity, making it susceptible to legal actions.
 - Legal issues: It was shut down in 2009 after being linked to money laundering.
-- No pseudonymity: Transactions were not as private as Bitcoin.
 
 ### 3. Hashcash
 Creator: **Adam Back**
 Year of Creation: 1997
+
 **Drawbacks:**
 - Limited functionality: Originally designed to prevent email spam, not as a currency.
 - No blockchain: It lacked a ledger system to record and verify transactions.
@@ -101,6 +106,7 @@ Year of Proposal: 1998
 ### 5. Bit Gold
 Creator: Nick Szabo
 Year of Proposal: 1998
+
 **Drawbacks:**
 - No implementation: Like b-money, it was never fully realized.
 - Lack of incentives: Did not have a built-in reward system for miners like Bitcoin.
@@ -111,7 +117,9 @@ Bitcoin improved upon these attempts by introducing a decentralized blockchain, 
 ### How many Bitcoin does its inventor Satoshi Nakamoto still own?
 In the first seven months of Bitcoin's existence, Bitcoin creator Satoshi Nakamoto mined as many as **1.1 million** Bitcoin (out of total **21 million** coins). Satoshi's coins have never been spent or moved from their original mining addresses known as "Patoshi Blocks". 
 
-Despite multiple bull runs, these coins remain untouched, except for a small 10 BTC test transaction sent to **Hal Finney**, whom some speculate to be Satoshi. Bitcoin operates on an open ledger, allowing anyone to verify Satoshi’s coins, making Bitcoin even scarcer than commonly perceived. Satoshi has given Bitcoin as a best gift to humanity and avoided any personal financial gain. We can also say that this is a test of Bitcoin’s integrity, if Satoshi coins ever move, it will cause a significant stir in the community.
+Despite multiple bull runs, these coins remain untouched, except for a small 10 BTC test transaction sent to **Hal Finney**, whom some speculate to be Satoshi. Bitcoin operates on an open ledger, allowing anyone to verify Satoshi’s coins, making Bitcoin even scarcer than commonly perceived. 
+
+Satoshi has given Bitcoin as a best gift to humanity and avoided any personal financial gain. We can also say that this is a test of Bitcoin’s integrity, if Satoshi coins ever move, it will cause a significant stir in the community.
 
 **Read More:** 
 [https://decrypt.co/34810/how-many-bitcoin-does-its-inventor-satoshi-nakamoto-still-own](https://decrypt.co/34810/how-many-bitcoin-does-its-inventor-satoshi-nakamoto-still-own)
