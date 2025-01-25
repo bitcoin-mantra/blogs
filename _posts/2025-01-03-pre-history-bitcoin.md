@@ -136,4 +136,5 @@ Satoshi has given Bitcoin as a best gift to humanity and avoided any personal fi
 **Bitcoin and the End of History**\
 [![Bitcoin and the End of History](https://img.youtube.com/vi/HDKQulqVCQg/0.jpg)](https://www.youtube.com/watch?v=HDKQulqVCQg&t=6s)
 
-[![Before the Web: The 1980s Dream of a Free and Borderless Virtual World (Pt.1)](https://img.youtube.com/vi/YWh6Yzr12iQ/0.jpg)](https://www.youtube.com/watch?v=YWh6Yzr12iQ&list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42&t=1s)
+<a href="https://www.youtube.com/watch?v=YWh6Yzr12iQ&list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42&t=1s" target="_blank"><img src="https://img.youtube.com/vi/YWh6Yzr12iQ/0.jpg" 
+alt="Before the Web: The 1980s Dream of a Free and Borderless Virtual World (Pt.1)" width="480" height="360" /></a>
