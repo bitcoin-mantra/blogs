@@ -13,15 +13,14 @@ layout: default
   {{ content }}
   </article>
 
-  <!-- mathjax disable
+  <!-- mathjax disable -->
   {% if page.mathjax %}
   <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   {% endif %}
-  -->
 
-  <!-- giscus comments -->
+  <!-- giscus comments 
  {% if page.comments %}
- <div id="giscus_thread"></div>
+ <div id="giscus_thread">
  <script src="https://giscus.app/client.js"
     data-repo="bitcoin-mantra/blogs"
     data-repo-id="R_kgDONrdBlQ"
@@ -37,6 +36,8 @@ layout: default
     crossorigin="anonymous"
     async>
     </script>
+    </div>
   {% endif %}
+  -->
   
 </div>
