@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Part#1: ₿(Bitcoin's) History And Pre-history"
+date: 2025-01-03 17:19:00 +0900
+categories: [Bitcoin, History]
+tags: [bitcoin, halving]
+---
+
 # Part#1: ₿(Bitcoin's) History And Pre-history
 
 ## History of Bitcoin
