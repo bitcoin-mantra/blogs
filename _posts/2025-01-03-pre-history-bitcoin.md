@@ -9,7 +9,11 @@ tags: [bitcoin, halving]
 # Part#1: ₿(Bitcoin's) History And Pre-history
 
 ## History of Bitcoin
-Bitcoin is the **first** decentralized cryptocurrency, utilizing blockchain technology to facilitate peer-to-peer digital transactions without the need for intermediaries like banks. Traditionally we are dependent on Banks to settle any monetary transaction and dependent on bank entities who maintain the ledger or record keeping. 
+Bitcoin is the **first** decentralized cryptocurrency, utilizing blockchain technology to facilitate peer-to-peer digital transactions without the need for intermediaries like banks. Traditionally we are dependent on Banks to settle any monetary transaction and dependent on bank entities who maintain the ledger or record keeping.
+
+![BankvsBitcoin](https://bitcoin-mantra.github.io/blogs/assets/img/BankvsBitcoin.png)
+
+**Source:** [https://coindataflow.com/clue/what-is-bitcoin](https://coindataflow.com/clue/what-is-bitcoin)
 
 Banks have several drawbacks, including centralization, high fees, slow transactions, limited accessibility, account freezing risks, and lack of transparency. Unlike banks, which rely on intermediaries and are subject to government control, Bitcoin operates on a peer-to-peer network, allowing users to transact freely without restrictions. Additionally, Bitcoin’s limited supply protects against inflation, while banks can print money, devaluing currency. 
 

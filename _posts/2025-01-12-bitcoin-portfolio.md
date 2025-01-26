@@ -8,7 +8,7 @@ This topic is to share my learning during designing of my own BTC portfolio proc
 BTC Investing **Strategy:**
 ---------------------------
 
-**Step#1** **BTC Investment %age:** Calculate **5%** of your total investment portfolio you want to invest into BTC in any given year (if you asking why 5% only, then see [Bitcoin_Part#3_Topic#3](https://bitcoin-mantra.github.io/blogs/2025/01/10/bitcoin-questions-n-answers.html)).
+**Step#1** **BTC Investment %age:** Calculate **5%** of your total investment portfolio you want to invest into BTC in any given year (if you asking why 5% only, then see [Bitcoin_Part#3_Topic#3](https://bitcoin-mantra.github.io/blogs/posts/bitcoin-questions-n-answers/)).
 
 **Step#2** **DCA:** Instead of waiting for BTC price to dip, start daily **DCA**(dollar cost avg.), as this is human tendency to think too much of price vs market sentiments. Still, if BTC dip enough (say 30% to 70% draw down happened in past, but don't worry Step#3 will take care of that risk), then totally make sense to buy in big chunks. During this period, whenever BTC price drops, it's really **+ve news for us** to add more fractions of BTC at a cheap prices. I hope BTC to remain cheap till 2030, so more retail investors gets time to invest into BTC.
 
