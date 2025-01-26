@@ -5,8 +5,21 @@
  <head>
     <style>
     div {
-      padding: 5px 5px 5px 10px;
+    padding: 5px 5px 5px 10px;
+    display: flex;
+    justify-content: center;
     }
+    /* Utility */
+  
+  .wrap:before,
+  .wrap:after { content:""; display:table; }
+  .wrap:after { clear: both; }
+  .wrap {
+    max-width: 800px;
+    padding: 0 30px;
+    margin: 0 auto;
+    zoom: 1;
+  }
     </style>
     </head>
 
