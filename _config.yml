@@ -41,11 +41,11 @@ defaults:
       tags: Other  
 
 # Build settings
-markdown: bitcoin-mantra
-permalink: pretty
+#markdown: bitcoin-mantra
+#permalink: pretty
 
-highlighter: rouge
-bitcoin-mantra:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
+#highlighter: rouge
+#bitcoin-mantra:
+  #input: GFM
+  #auto_ids: true
+  #syntax_highlighter: rouge
