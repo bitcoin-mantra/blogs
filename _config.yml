@@ -3,6 +3,7 @@ title: HOME - Bitcoin Mantra Series!
 email: 
 description: 
 baseurl: ""
+theme: jekyll-theme-minimal
 url: https://bitcoin-mantra.github.io
 logo: /assets/img/BitcoinMantra.png
 twitter_username: vthakurtwi
