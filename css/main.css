@@ -142,9 +142,8 @@
   } 
   
   .giscus_thread {
-    padding: 20px 0;
-    margin: 20px;
     background-color: #fff;
+    padding: 25px 25px 25px 50px; 
   }
   
   /* Home styles */
