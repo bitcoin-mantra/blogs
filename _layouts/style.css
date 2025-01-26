@@ -1,0 +1,24 @@
+.page-content {
+padding: 5px 5px 5px 10px;
+margin-left: auto;
+margin-left: auto;
+text-align: center;
+}
+
+
+.mobile-content {
+    padding: 5px 5px 5px 10px;
+    margin-left: auto;
+    margin-left: auto;
+    justify-content: center;
+    }
+
+    @media only screen and (max-width: 414px) {   
+        .page-content{
+            visibility: collapse;
+        }
+
+        .mobile-content{
+            visibility: visible;
+        }
+    } 
