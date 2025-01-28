@@ -82,6 +82,12 @@ Bitcoin halving is a built-in mechanism that reduces miners' rewards by half eve
 
 - Message in Genesis Block: _"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"_
 
+![Satoshi](https://bitcoin-mantra.github.io/blogs/assets/img/Satoshi.png?w=610)
+
+Satoshi Nakamoto Statue Is Inspiring, The city of Lugano, Switzerland!
+Lugano's new disappearing Satoshi Nakamoto statue is a beautiful tribute to Bitcoin's anonymous founder.
+**Source:** [satoshi-statue-unveiled-in-lugano](https://bravenewcoin.com/insights/satoshi-statue-unveiled-in-lugano)
+
 ### 1. DigiCash
 Creator: David Chaum
 Year of Creation: 1989
