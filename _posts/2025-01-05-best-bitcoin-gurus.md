@@ -1,7 +1,9 @@
 # Part#2: Learn ₿(Bitcoin) from the Best in the Industry
 
 ## Introduction:
-Today I'll cover few prominent figures within the Bitcoin community, from whom I learned a lot in last couple of years. I call them as ₿-Gurus, these are individuals who live, breathe and share their knowledge to the masses. Let's learn from the experts! My actual list is long though but it's careful cherry picking of **5 of these heros** for you and there bunch of videos, so you can start your journey.
+Today's topic is focused on introducing you to few prominent tutors within the Bitcoin community, from whom I personally benefited a lot in last couple of years. I call them as ₿-Gurus, these are individuals who live, breathe and share their knowledge to the masses. 
+
+Let's learn from the experts! Introducing you to **Five ₿-Hero's** and cherry picked few of their videos.
 <br>
 [**#1 Preston Pysh**](https://www.theinvestorspodcast.com/our-team/)
 
