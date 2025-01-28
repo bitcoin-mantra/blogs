@@ -8,16 +8,16 @@ tags: [bitcoin, halving]
 
 # Part#1: ₿(Bitcoin's) History And Pre-history
 
-## History of Bitcoin
-Bitcoin is the **first** decentralized cryptocurrency, utilizing blockchain technology to facilitate peer-to-peer digital transactions without the need for intermediaries like banks. Traditionally we are dependent on Banks to settle any monetary transaction and dependent on bank entities who maintain the ledger or record keeping.
+## Bitcoin vs Banks
+Bitcoin is the **first** decentralized cryptocurrency, utilizing blockchain technology to facilitate peer-to-peer digital transactions without the need for intermediaries like banks. Traditionally we are dependent on Banks to settle any monetary transaction and maintain the  record keeping or ledger.
 
 ![BankvsBitcoin](https://bitcoin-mantra.github.io/blogs/assets/img/BankvsBitcoin.png)
 
 **Source:** [https://coindataflow.com/clue/what-is-bitcoin](https://coindataflow.com/clue/what-is-bitcoin)
 
-Banks have several drawbacks, including centralization, high fees, slow transactions, limited accessibility, account freezing risks, and lack of transparency. Unlike banks, which rely on intermediaries and are subject to government control, Bitcoin operates on a peer-to-peer network, allowing users to transact freely without restrictions. Additionally, Bitcoin’s limited supply protects against inflation, while banks can print money, devaluing currency. 
+Banks have several drawbacks like centralization, high fees, slow, limited accessibility, account freezing risks, and lack of transparency. Unlike banks, which rely on intermediaries and are subject to government control, Bitcoin operates on a peer-to-peer network, allowing users to transact freely without restrictions. Bitcoin’s limited supply protects against inflation, while banks can print money and devaluing currency over time. 
 
-Overall, Bitcoin presents an alternative financial system with greater autonomy, security, and efficiency compared to traditional banks. Bitcoin is the result of **40 years** of work by cryptographers and computer scientists, particularly those known as **cypherpunks**, whom we will discuss in the prehistory section. As of Nov 2024, there were 25,000+ other cryptocurrencies in the marketplace, out of them several are either dead or of no-use.
+Bitcoin is the result of **40 years** of work by cryptographers and computer scientists known as **cypherpunks**. As of Nov 2024, there were 25,000+ other cryptocurrencies in the marketplace, out of them several are either dead or of no-use.
 
 ## Different actors in the Bitcoin Ecosystem
 ![blockchain-ecosystem](https://bitcoin-mantra.github.io/blogs/assets/img/blockchain-ecosystem.png)
@@ -32,18 +32,7 @@ Overall, Bitcoin presents an alternative financial system with greater autonomy,
 
 **Stakeholders** Holders of the blockchain's native cryptocurrency. This includes people who have bought it as a cryptocurrency investment and who plan to use it for payments. 
 
-Together, miners secure the network, developers improve functionality, and nodes enforce protocol rules. This decentralized collaboration ensures Bitcoin remains a censorship-resistant, secure, and transparent financial system without central authority control.
-
-## Key Details
-- Creator: **Satoshi Nakamoto** (anonymous entity or group)
-
-- Whitepaper Release: October 31, 2008
-
-- Bitcoin Software Release: January 9, 2009
-
-- Genesis Block (Block 0): Mined on January 3, 2009
-
-- Message in Genesis Block: _"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"_
+So, Miners secure the network, developers improve functionality, and nodes enforce protocol rules. This decentralized collaboration ensures Bitcoin remains secure and transparent financial system without any central authority control.
 
 ## Bitcoin Price w.r.t Time and Milestones achieved so-far... (Bitcoin Halving?)
 
@@ -81,6 +70,17 @@ Bitcoin halving is a built-in mechanism that reduces miners' rewards by half eve
 ![halving-spiral-black](https://bitcoin-mantra.github.io/blogs/assets/img/bitcoinprehistory.png)
 
 **Source:** [https://x.com/AnselLindner/status](https://x.com/AnselLindner/status/993498723853352960/photo/1)
+
+## Bitcoin Historical Details
+- Creator: **Satoshi Nakamoto** (anonymous entity or group)
+
+- Whitepaper Release: October 31, 2008
+
+- Bitcoin Software Release: January 9, 2009
+
+- Genesis Block (Block 0): Mined on January 3, 2009
+
+- Message in Genesis Block: _"The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"_
 
 ### 1. DigiCash
 Creator: David Chaum
@@ -136,7 +136,7 @@ Satoshi has given Bitcoin as a best gift to humanity and avoided any personal fi
 **Read More:** 
 [https://decrypt.co/34810/how-many-bitcoin-does-its-inventor-satoshi-nakamoto-still-own](https://decrypt.co/34810/how-many-bitcoin-does-its-inventor-satoshi-nakamoto-still-own)
 
-### Cypherpunks movement result in Bitcoin(YouTube Videos):
+### Cypherpunks movement result in Bitcoin(2 YouTube Videos below):
 **Bitcoin and the End of History**\
 [![Bitcoin and the End of History](https://img.youtube.com/vi/HDKQulqVCQg/0.jpg)](https://www.youtube.com/watch?v=HDKQulqVCQg&t=6s)
 

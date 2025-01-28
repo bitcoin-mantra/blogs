@@ -59,7 +59,7 @@ No, you're not necessarily late to invest in Bitcoin. While Bitcoin has seen sig
 **#6 Why Bitcoin is considered as a Digital Gold?**
 -------------------------------------------------
 
-<img src="https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/gold.png" width="300" height="400">
+<img src="https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/gold.png" width="400" height="400">
 
 Bitcoin is considered "Digital Gold" because it combines many of gold's characteristics---scarcity, durability, resistance to manipulation, and value preservation---with the advantages of digital technology, such as portability, divisibility, and accessibility. While it doesn't have the centuries-long track record of gold, Bitcoin's growing adoption and recognition as a store of value position it as a modern alternative to physical gold in the digital age.
 
