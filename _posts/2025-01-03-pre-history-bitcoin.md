@@ -87,7 +87,7 @@ Bitcoin halving is a built-in mechanism that reduces miners' rewards by half eve
 > **Fun Fact:** Satoshi Nakamoto Statue Is Inspiring, The city of Lugano, Switzerland!
 Lugano's new disappearing Satoshi Nakamoto statue is a beautiful tribute to Bitcoin's anonymous founder.<br>
 
-**Instagram**[Short Video...](https://www.instagram.com/boxofvideo/reel/DCJUPq5u4y8/)<br>
+**Instagram** [watch short video...](https://www.instagram.com/boxofvideo/reel/DCJUPq5u4y8/)<br>
 **Source:** [satoshi-statue-unveiled-in-lugano](https://bravenewcoin.com/insights/satoshi-statue-unveiled-in-lugano)
 
 ### 1. DigiCash
