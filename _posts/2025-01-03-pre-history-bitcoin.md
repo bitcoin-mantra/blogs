@@ -64,13 +64,6 @@ Bitcoin halving is a built-in mechanism that reduces miners' rewards by half eve
 
 **NOTE** These projections depend heavily on market conditions, regulatory developments, and global economic factors. Bitcoin remains volatile and speculative.
 
-## Pre-History:
-### 40 years of several attempts made to create cryptocurrencies before Bitcoin:
-
-![halving-spiral-black](https://bitcoin-mantra.github.io/blogs/assets/img/bitcoinprehistory.png)
-
-**Source:** [https://x.com/AnselLindner/status](https://x.com/AnselLindner/status/993498723853352960/photo/1)
-
 ## Bitcoin Historical Details
 - Creator: **Satoshi Nakamoto** (anonymous entity or group)
 
@@ -89,6 +82,13 @@ Lugano's new disappearing Satoshi Nakamoto statue is a beautiful tribute to Bitc
 
 **Instagram** [watch short video...](https://www.instagram.com/boxofvideo/reel/DCJUPq5u4y8/)<br>
 **Source:** [satoshi-statue-unveiled-in-lugano](https://bravenewcoin.com/insights/satoshi-statue-unveiled-in-lugano)
+
+## Pre-History:
+### 40 years of several attempts made to create cryptocurrencies before Bitcoin:
+
+![halving-spiral-black](https://bitcoin-mantra.github.io/blogs/assets/img/bitcoinprehistory.png)
+
+**Source:** [https://x.com/AnselLindner/status](https://x.com/AnselLindner/status/993498723853352960/photo/1)
 
 ### 1. DigiCash
 Creator: David Chaum
