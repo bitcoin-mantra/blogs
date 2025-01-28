@@ -1,46 +1,49 @@
 # Part#3: ₿(Bitcoin) Questions and Answers, Learn More
 
 ## Introduction:
-Great you have made to Part#3 of the Bitcoin series! Today we'll draw our attention toward some critical points before you start investing to Bitcoin:
+Great you have made it to Part#3 of the Bitcoin series! Let's go through few important topics before we start discussing about Bitcoin investments:
 
 -   **Do Your Research(DYR):** Understand Bitcoin, blockchain technology, and market dynamics.
 -   **Start Small:** Invest only what you can afford to lose.
--   **Diversify:** Consider Bitcoin as a be part of a balanced investment portfolio.
+-   **Diversify:** Consider Bitcoin as part of a balanced investment portfolio.
 -   **Secure Your Investment:** Use trusted wallets and exchanges to minimize risks of theft or fraud.
 
-Investing in Bitcoin isn't for everyone, but for those who align with its principles and are prepared for its risks, it can be a rewarding venture if you consider it for long term instead of having trading mindset.
+Investing in Bitcoin isn't for everyone, but for those who align with its principles and are prepared for its risks, it can be a rewarding venture if you consider it a long-term investment rather than having a trading mindset.
 
 * * * * *
 
-**#1 Who Should Invest in the Bitcoin?**
+**#1 Who Should Invest in Bitcoin?**
 ------------------------------------
 
--   **Long-Term Investors (**in crypto world we call them **HODLers,** HODL is a crypto slang which means to buy-and-hold indefinitely**)**. Here, I am considering holding time of min. 4 to 5 years as it's correlated to bitcoin halving cycle and it's projected price calculation.
--   **Inflation Hedge:** One looking for **hedge** against **inflation** and **fiat** currency **devaluation** (this can be more realized in weak currencies e.g. Lebanon and Argentina are latest examples where their currencies devalued **75% to 90%** in quick span of time. But, sometimes we think this will not impact me, lets take another example, after covid b/w 2020 to 2022, home prices increased by an estimated **20-30%** in many parts of the U.S.).
--   **Fixed Supply:** As, we learned in [Part#1](https://bitcoin-mantra.github.io/blogs/posts/pre-history-bitcoin/) **Bitcoin halving topic and limited supply (21 million coins)** drives long-term scarcity and value. I also mentioned original source, my recommendation to open post on laptop and view content in full size. Lets revisit original Reddit [post](https://www.reddit.com/r/CryptoCurrency/comments/1gqafju/bitcoin_has_followed_a_consistent_4year_cycle_for/#lightbox),
--   and remember next halving will around March 2028 (For me time b/w two halving is accumulation period, you can track halving using free resource like <https://bitbo.io/halving/>)
--   **Freedom**: Bitcoin aligns with principles of self-sovereignty and resistance to centralized control. Put some effort in learning about self custody (i.e. how to move your bitcoin from exchanges to hot or cold wallets, once you have enough accumulation e.g. greater than $1000). Also, there are lot of incidents of exchange hacks, so this practice will safeguard you from such events.
+-   **Long-Term Investors (**in crypto world we call them **HODLers,** HODL is a crypto slang which means to buy-and-hold indefinitely**)**. Here, I am considering holding time of min. 4 to 5 years as it's correlated to Bitcoin halving cycle and it's projected price calculation.
 
-**#2 Who Should Avoid Investing in the Bitcoin?**
+-   **Inflation Hedge:** One looking for **inflation hedge** and **fiat** currency **devaluation**. This is more evident in weaker currencies e.g. Lebanon and Argentina are the latest examples where their currencies devalued **75% to 90%**. Even in stronger economies like the USA and Canada, inflation was noticeable, with home prices rising by an estimated **20% to 30%** during the COVID-19 pandemic.
+
+-   **Fixed Supply:** Bitcoin has a fixed supply of 21 million coins, and its halving every four years reduces mining rewards, creating scarcity that historically drives long-term price appreciation. Next halving will be around March 2028, so time b/w two halvings is Bitcoing accumulation period. Track halving using free resource like <https://bitbo.io/halving/>.
+
+-   **Freedom**: Bitcoin aligns with principles of self-sovereignty and resistance to centralized control. Put some effort into learning about self custody i.e. how to move your Bitcoin from exchanges to cold wallets. There have been many incidents of exchange hacks in the past. **Not your Keys, not your Coins!**
+
+**#2 Who Should Avoid Investing in Bitcoin?**
 ---------------------------------------------
 
 -   **Risk-Averse Individuals:** Those who cannot tolerate significant price swings or the risk of losing their investment.
 -   **Uninformed Investors:** Those who don't understand Bitcoin's fundamentals or how it works.
 -   **People with Short-Term Needs:** If you need liquidity within a few months, Bitcoin's volatility makes it a poor choice.
 
-**#3 How much of your portfolio should be invested in the Bitcoin?**
+**#3 How Much of Your Portfolio Should Be Invested in Bitcoin?**
 ----------------------------------------------------------------
 
-Allocate only a small percentage of the portfolio (e.g., 1-5%) to Bitcoin in-order to begin with, if you feel this asset class is too risky. So, this will not give a person heart attack if price drops severely in any given year. Lets say ~ **5% of your portfolio going to zero** (due to severe bear market) won't bring you on the road as I assume 95% of your portfolio is still invested in traditional fiat instruments like **Stock / ETF's, Gold, Real Estate, Retirement funds & Cash**.
+Allocate only a small percentage of the portfolio (e.g., 1-5%) to Bitcoin to begin with, if you feel this asset class is too risky. This will not give a person a heart attack if price drops severely in any given year. Let's say **5% of your portfolio going to zero** due to bear market, won't bring investor on the road. Rest of your portfolio i.e. **95%** of your portfolio is still invested in traditional fiat instruments like **Stock / ETF's, Gold, Real Estate, Retirement funds & Cash**.
 
-If you holds bitcoin for 4 year cycle then your investment will grow enough and this will also give you time to research on Bitcoin. Below are past few years of return for Bitcoin (still growing average ~ 50% to 60 % every year and after 2030 prediction are as volatility reduces with time will still grow 20% per year.):
+If you holds bitcoin for 4 years cycle then your investment will grow enough. This will also give you time to research Bitcoin. Below are the past few years of return for Bitcoin, average ~ 50% to 60% profits per year. After 2030 prediction are as volatility reduces with time will also slow down profits to 20% per year.
 
 <img src="https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/screenshot-from-2025-01-10-00-27-17.png" width="400" height="500">
 
 **#4 Am I late to Invest into Bitcoin?**
 ----------------------------------------
 
-No, you're not necessarily late to invest in Bitcoin. While Bitcoin has seen significant price increases since its inception, its adoption is still in the early when viewed in the context of global markets and retail side. Bitcoin is often compared to gold, with its market cap. As institutional adoption grows and Bitcoin's use cases expand, there is room for significant value appreciation. Global Bitcoin ownership remains low, with only a fraction of the world's population owning any Bitcoin. Adoption by institutions, corporations, and nation-states is still in its infancy.
+No, you're not necessarily late to invest in Bitcoin. While Bitcoin has seen significant price increases since its inception, its adoption is still in the early when viewed in the context of global markets and retail side. 
+Bitcoin is often compared to gold, with its market cap. As institutional adoption grows and Bitcoin's use cases expand, there is room for significant value appreciation. Global Bitcoin ownership remains low, with only a fraction of the world's population owning any Bitcoin. Adoption by institutions, corporations, and nation-states is still in its infancy.
 
 **#5 Should I think of any other Cryptocurrencies or Alt-coins?**
 -----------------------------------------------------------------
@@ -61,7 +64,7 @@ No, you're not necessarily late to invest in Bitcoin. While Bitcoin has seen sig
 
 <img src="https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/gold.png" width="400" height="400">
 
-Bitcoin is considered "Digital Gold" because it combines many of gold's characteristics---scarcity, durability, resistance to manipulation, and value preservation---with the advantages of digital technology, such as portability, divisibility, and accessibility. While it doesn't have the centuries-long track record of gold, Bitcoin's growing adoption and recognition as a store of value position it as a modern alternative to physical gold in the digital age.
+Bitcoin is considered **Digital Gold** because it combines many of gold's characteristics like scarcity, durability, resistance to manipulation, and value preservation. Additionally, Bitcoin has advantages of digital technology, such as portability, divisibility, and accessibility. While it doesn't have the centuries long track record of gold, Bitcoin's growing adoption and recognition as a store of value position it as a modern alternative to physical gold in the digital age.
 
 **#7 Does Bitcoin proves Mahatma Gandhi's quote correct?**
 --------------------------------------------------------
