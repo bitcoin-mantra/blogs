@@ -7,7 +7,7 @@ url: https://bitcoin-mantra.github.io
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 github:
   username: bitcoin-mantra # change to your github username
-  twitter_username: vthakurtwi
+  twitter_username: 
   github_username:  bitcoin-mantra  
 
 theme: "minima"
@@ -16,7 +16,7 @@ kramdown:
     disable: true
     
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-sitemap
 
 titles_from_headings:
