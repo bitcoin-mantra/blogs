@@ -73,13 +73,18 @@ These pics were taken 13 years apart. Same place 5th Av. NY City. Year 1900, on 
 ---------------
 Transitions are often difficult to recognize while they’re happening, but everyone sees them once they’re complete. Now, could the current banking industry or fiat system be replaced by a superior form of global money?
 
-**Bitcoin** is running solid and strong **24/7** since **2009** without any centralized control. This is reminding me about **M. Saylor famous phrase** "[**Bitcoin** is a swarm of cyber hornets serving the **goddess of wisdom**, feeding on the **fire of truth**, exponentially growing ever **smarter, faster, and stronger**.](https://vinaybaatcheet.wordpress.com/2024/10/16/bitcoin-as-cyber-hornet-m-saylor/)"
+**Bitcoin** is running solid and strong **24/7** since **2009** without any centralized control. This is reminding me about **M. Saylor famous phrase:** 
+
+> **Bitcoin** is a swarm of cyber hornets serving the **goddess of wisdom**, feeding on the **fire of truth**, exponentially growing ever **smarter, faster, and stronger.**
 
 <img src="https://vinaybaatcheet.wordpress.com/wp-content/uploads/2025/01/img_1602-2-1.jpg?w=1017" width="400" height="400">
 
-Time will tell us how correct is this math and lets keep speculation part open for individual person and I am not here to pass any judgement. I think my job is learn from others and share my learning within investing community. This is my humble effort to break down these topic in few parts, with unwavering support and encouragement from my **family and friends** with whom I regularly bouncing my ideas and shameless asking to review my articles to get feedback and better these articles for my readers.
+Time will ultimately reveal the accuracy of this math, and speculation is up to each individual. My goal is to learn from others and share my insights with the investing community.
 
-Time will ultimately reveal the accuracy of this math, and speculation is up to each individual. My goal is to learn from others and share my insights with the investing community. This is my humble effort to break down these topics and finally create some actionable steps for my readers. This can't be possible without the unwavering support and encouragement of my family and friends. I regularly bounce my ideas with them and shamelessly ask for feedback so these articles are really helpful for my readers.
+ This is my effort to break down these topics and provide actionable steps for my readers. None of this would be possible without the constant support and encouragement of my **family and friends**. I often share my ideas with them and ask for feedback to make sure these articles are truly helpful.
 
-*I have fair assumption that once our portfolio clear 4 to 5 years **gravitation pull** of investment cycle, then you can relax and find a new gig! 
 > **Keep LEARNing, Keep STACKing & Keep HODLing!!!**
+
+I have fair assumption that once our portfolio clear 4 to 5 years **gravitation pull** of investment cycle, then you can relax and find a new gig!
+
+![Bitcoin Ship](https://bitcoin-mantra.github.io/blogs/assets/img3/BitcoinShip.png?w=600)

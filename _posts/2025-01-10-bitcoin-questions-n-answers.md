@@ -3,6 +3,8 @@
 ## Introduction:
 Great you have made it to Part#3 of the Bitcoin series! Let's go through few important topics before we start discussing about Bitcoin investments:
 
+![BitcoinSafeHeaven](https://bitcoin-mantra.github.io/blogs/assets/img2/BitcoinSafeHeaven.png)
+
 -   **Do Your Research(DYR):** Understand Bitcoin, blockchain technology, and market dynamics.
 -   **Start Small:** Invest only what you can afford to lose.
 -   **Diversify:** Consider Bitcoin as part of a balanced investment portfolio.
@@ -14,7 +16,7 @@ Investing in Bitcoin isn't for everyone, but for those who align with its princi
 
 **#1 Who Should Invest in Bitcoin?**
 ------------------------------------
-![BitcoinSafeHeaven](https://bitcoin-mantra.github.io/blogs/assets/img2/BitcoinSafeHeaven.png)
+![WhoInvest](https://bitcoin-mantra.github.io/blogs/assets/img2/WhoInvest.png)
 
 -   **Long-Term Investors (**in crypto world we call them **HODLers,** HODL is a crypto slang which means to buy-and-hold indefinitely**)**. Here, I am considering holding time of min. 4 to 5 years as it's correlated to Bitcoin halving cycle and it's projected price calculation.
 
@@ -121,9 +123,11 @@ Understanding Bitcoin requires unlearning some traditional ideas about money and
 
 Bitcoin's network consumes an estimated 100--150 terawatt-hours (TWh) annually, putting it on par with the energy consumption of small-to-medium-sized countries like the **Netherlands or Argentina**.
 
-Now, let’s consider Traditional Finance and other comparisons. The global banking system (including banks, ATMs, and data centers) consumes massive amounts of energy, often surpassing Bitcoin’s usage when aggregated. Meanwhile, an increasing percentage of Bitcoin mining is powered by renewable energy sources. Some studies suggest that over 50% of Bitcoin mining operates on renewable energy, as miners seek cheap and abundant electricity.
+Now, let’s consider Traditional Finance and other comparisons. The global banking system (including banks, ATMs, and data centers) consumes massive amounts of energy, often surpassing Bitcoin’s usage when aggregated. 
 
 ![Bitcoin Energy](https://bitcoin-mantra.github.io/blogs/assets/img2/BitcoinEnergy.png)
+
+Meanwhile, an increasing percentage of Bitcoin mining is powered by renewable energy sources. Some studies suggest that over 50% of Bitcoin mining operates on renewable energy, as miners seek cheap and abundant electricity.
 
 **Stranded Energy:** Bitcoin mining can utilize energy that would otherwise go to waste, such as surplus power from hydroelectric plants or flare gas from oil fields. So, it's best to utilize waste energy and produce and support sound monetary system. 
 
