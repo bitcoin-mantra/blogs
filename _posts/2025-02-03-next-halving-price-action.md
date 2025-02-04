@@ -1,10 +1,4 @@
----
-layout: post
-title: "# Part#5: ₿(Bitcoin)- On Chain Analysis to calculate future price action!"
-date: 2025-01-03 17:19:00 +0900
-categories: [Bitcoin, History]
-tags: [bitcoin, halving]
----
+# Part#5: ₿(Bitcoin)- On Chain Analysis to calculate future price action
 
 ## Introduction:
 This topic is preform some calculation around Bitcon price during current halving cycle. Trying to take help from few models with looking into last halving cycle.
@@ -39,7 +33,8 @@ Max 5X (300K)
 Min 3X (180K)
 
 Flat Growth: 2024: 60K > 2025: 100K > 2026: 150K > 2027: 200K > 2028: 250K
+
 **Source:**
-![https://charts.bitbo.io/long-term-power-law](https://charts.bitbo.io/long-term-power-law/)
+[https://charts.bitbo.io/long-term-power-law](https://charts.bitbo.io/long-term-power-law/)
 
 > Note: This topic has not completed yet, just added couple of items to start with.
