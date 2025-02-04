@@ -10,10 +10,10 @@ This topic is preform some calculation around Bitcon price during current halvin
 
 ![Bitcoin Last Halving](https://bitcoin-mantra.github.io/blogs/assets/img4/2020To2024Halving.png)
 
-Halving Starts: May 2020 / 9K
-Halving Ends: Apr 2024 / 64K
-Max Price: 67K
-Dip Price: 16 K (due to FTX collapse)
+Halving Starts: May 2020 / 9K <br>
+Halving Ends: Apr 2024 / 64K <br>
+Max Price: 67K <br>
+Dip Price: 16 K (due to FTX collapse) <br>
 
 **Growth:** 5X (9*5 = 45K) should be ideal price but pump was due to FTX play (where X is BTC Start Value).
 So, it also rebound back to 16K (ideally 25K to 30K drawdown should happen i.e. 3X)
@@ -23,14 +23,14 @@ So, it also rebound back to 16K (ideally 25K to 30K drawdown should happen i.e. 
 ---------------------------
 ![Bitcoin Current Halving](https://bitcoin-mantra.github.io/blogs/assets/img4/CurrentHalvingPlay.png)
 
-Halving Starts: 2024 / 64K
-Halving Ends: 2028 / 300K
-Max Price: 250K to 300K
+Halving Starts: 2024 / 64K <br>
+Halving Ends: 2028 / 300K <br>
+Max Price: 250K to 300K <br>
 Dip Price: 150K to 180K
 
 **Growth** (where X is BTC Start Value): 
-Max 5X (300K)  
-Min 3X (180K)
+Max 5X (300K)  <br>
+Min 3X (180K) <br>
 
 Flat Growth: 2024: 60K > 2025: 100K > 2026: 150K > 2027: 200K > 2028: 250K
 
