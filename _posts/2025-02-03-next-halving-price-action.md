@@ -56,4 +56,14 @@ This metric is often used by analysts and investors to gauge the level of confid
 **Source:**<br>
 [https://charts.bitbo.io/1y-hodl-wave](https://charts.bitbo.io/1y-hodl-wave/)
 
+* * * * *
+### Bitcoin - Stock To Flow Model
+
+![Stock-To-Flow](https://bitcoin-mantra.github.io/blogs/assets/img4/StockToFlow.png)
+
+**Source:**<br>
+[www.bitcoinmagazinepro.com/stock-to-flow-model/](https://www.bitcoinmagazinepro.com/charts/stock-to-flow-model/)
+
+As the amount of bitcoins to be mined reduces over time, the stock to flow number (s2f ratio) increases, as supply coming onto the market is reducing. That is why this model is forecasting that the price of Bitcoin will increase in the future.
+
 > Note: This topic has not completed yet, just added couple of items to start with.
