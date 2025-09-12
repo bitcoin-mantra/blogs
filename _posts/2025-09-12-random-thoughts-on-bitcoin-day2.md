@@ -5,7 +5,7 @@ Bitcoin is more than digital money—it’s a movement reshaping finance, cultur
 > **Code is law, and in Bitcoin, the rules are the same for all!!!**
 
 
-![Bitcoin Day1](https://bitcoin-mantra.github.io/blogs/assets/img6/BitcoinDay2.png)
+![Bitcoin Day2](https://bitcoin-mantra.github.io/blogs/assets/img6/BitcoinDay2.png)
 
 * * * * *
 ### Bouncing Back: How Bitcoin Helps After Hitting Rock Bottom
