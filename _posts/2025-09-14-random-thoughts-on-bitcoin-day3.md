@@ -45,7 +45,7 @@ Central America bet that embracing Bitcoin could turn its sunny shores, surf bea
 
 ### Top Governments Holding Bitcoin: Who Has the Most (and How They Got It)
 
-<img src="https://bitcoin-mantra.github.io/blogs/assets/img7/BitcoinCountries.png" width="350" height="600">
+<img src="https://bitcoin-mantra.github.io/blogs/assets/img7/BitcoinCountries.png" width="350" height="500">
 
 Governments around the world now hold hundreds of thousands of Bitcoin — not always by choice, but the stakes are rising. The United States leads, mostly from criminal seizures (Silk Road, ransomware, etc.), owning ~198,000 BTC. China follows with a similar amount, largely from seizing illicit pools like the PlusToken scheme. The United Kingdom holds ~61,000 BTC, and Ukraine ~46,000 BTC (often via donations). Smaller players like Bhutan and El Salvador are also in the mix — Bhutan mining Bitcoin with renewable hydro power, El Salvador buying it as part of its reserve strategy. Others include North Korea, Venezuela, and Finland, though with much smaller amounts. Together, these governments hold about 2.3–2.5% of all Bitcoin ever mined.
 > **When kings and nations clutch digital gold, the crown of value has already shifted!!!**
